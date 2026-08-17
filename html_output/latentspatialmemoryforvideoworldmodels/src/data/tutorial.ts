@@ -282,7 +282,7 @@ export const tutorial: TutorialData = {
           "title": "逐步走完一次 Mirage 循环",
           "desc": "用上一步/下一步依次查看初始化、latent 读出、去噪、解码、深度分割、再编码更新。橙色像素操作只出现在<b>按块更新</b>，不是每次条件读出。",
           componentId: "lsm-c5-main",
-          "figure": "/images/figure-3-mirage-overview.png"
+          "figure": "./images/figure-3-mirage-overview.png"
         }
       ],
       "formula": {
